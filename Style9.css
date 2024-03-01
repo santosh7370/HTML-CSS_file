@@ -1,0 +1,29 @@
+body {
+	background-color: lightblue;
+}
+
+h2 {
+	color: darkred;
+	text-decoration: underline;
+	text-decoration-color: indianred;
+	font-size: 50px;
+}
+b {
+	text-decoration: underline;
+	text-decoration-color: blue;
+	color: blue;
+	font-size: 20px;
+}
+table {
+	color: lightblack;
+	background-color: lightyellow;
+}
+tr {
+	color: darkred;
+}
+th {
+	color: darkblue;
+}
+td {
+	color: black;
+}
