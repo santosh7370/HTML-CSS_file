@@ -1,0 +1,21 @@
+body {
+	margin-left: 15px;
+	background-color: lightsalmon;
+}
+
+h1 {
+	font-family: avant garde , didot , sans-serif;
+	font-weight: 800;
+	font-size: 50px;
+	text-decoration: underline;
+	text-decoration-color: darkred;
+	color: darkblue;
+}
+b {
+	color: black;
+	font-size: 25px;
+}
+option {
+	color: blue;
+	font-size: 20px;
+}
