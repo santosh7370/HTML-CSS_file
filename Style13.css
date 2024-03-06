@@ -1,0 +1,35 @@
+.md-header {
+
+background-color: #2196F3; color: white;
+text-align: center;
+padding: 20px;
+
+}
+
+.md-title {
+
+font-size: 24px;
+
+}
+
+.md-card {
+
+background-color: white;
+
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-radius: 4px;
+padding: 20px; margin: 20px;
+}
+
+.md-card-title { font-size: 18px;
+margin-bottom: 10px;
+
+}
+
+.md-card-content { font-size: 16px;
+}
+
+.md-footer {
+
+background-color: #666; color: white;
+text-align: center; padding: 10px;
+}
