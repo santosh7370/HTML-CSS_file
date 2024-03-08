@@ -1,0 +1,60 @@
+/* Reset some default styles */ body, h1, h2, p {
+margin: 0;
+
+padding: 0;
+
+}
+
+body {
+
+font-family: Arial, sans-serif; margin: 20px;
+background-color: #F2F2F2;
+
+}
+
+h1 {
+
+text-align: center; color: #333; margin-top: 20px;
+}
+
+ul {
+
+list-style: none; padding: 0;
+}
+
+li {
+
+margin: 10px 0;
+
+}
+
+a {
+
+text-decoration: none; color: #0074D9;
+
+transition: text-decoration 0.2s;
+
+}
+
+a:hover {
+
+text-decoration: underline;
+
+}
+
+.page {
+
+background-color: #FFF; border: 1px solid #DDD; padding: 20px;
+margin: 20px 0;
+
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 5px;
+}
+
+.page h2 {
+
+color: #0074D9;
+
+}
+
+.page p { color: #333;
+}
